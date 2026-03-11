@@ -307,7 +307,6 @@ Modern systems should use:
 TCP-IP-Attack-Lab
 │
 ├── task3_hijack.py
-├── task4_reverse.py
 ├── Asfour_1210737_TODO4
 └── README.md
 ```
